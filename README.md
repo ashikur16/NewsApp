@@ -1,4 +1,5 @@
 # iOS_Ashikur_MidTermProject
+Recorded Video: https://youtu.be/hJpP31_oLqo
 
 ## Features:
   #### 1. Fetch news from news API.
